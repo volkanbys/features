@@ -36,7 +36,7 @@
 
 **Beklenen Sonuç:**
 
-- Kullanıcı kutucuğu sola kaydırmayı akıl edemeyebilir, silme butonu direkt kutucuk üzerine eklenirse kullanıcı açısından daha anlaşılır olur. (Örneğin ekran görüntüsündeki kırmızı kutucuk olan bölgeye eklenebilir)
+- Kullanıcı kutucuğu sola kaydırmayı akıl edemeyebilir, silme butonu direkt kutucuk üzerine eklenirse kullanıcı açısından daha anlaşılır olur. (Örneğin ekran görüntüsündeki kırmızı çerçeveye alınmış bölgeye eklenebilir)
 
 *Not:* Eğer kullanıcı uygulamayı ilk açtığında eğitim animasyonları tarzı bir feature geliştirmeye karar verilirse bu ister iptal edilebilir. Maliyet açısından değerlendirilmesi gerek.
 
