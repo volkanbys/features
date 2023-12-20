@@ -28,11 +28,11 @@
 . E-posta yada Google ile giriş yapılır (hangisi için giriş bilgisi mevcut ise kullanılabilir).
 . Uygulamada sırasıyla "Hesabım" -> "Kartlarım" -> "Yeni Kart Ekle" butonları tıklanır.
 . "Yeni Kart Ekle" menüsünde Kart Numarası, Kart Sahibi Adı, SKT, CVV alanları doldurulup "Kaydet" butonuna tıklanır.
-. Kartlarım menüsünde yeni eklenen kartın kutucuğu üzerine silme butonu olup olmadığı kontrol edilir.
+. Kartlarım menüsünde yeni eklenen kartın kutucuğu üzerine silme butonu olup olmadığı kontrol edilir, kutucuk sola kaydırılır.
 
 **Oluşan Durum:**
 
-- Kart kutucuğu üzerinde silme butonu görünmüyor, buton sola kaydırıldığında silme seçeneği gözüküyor.
+- Kart kutucuğu üzerinde silme butonu görünmüyor, kutucuk sola kaydırıldığında silme seçeneği gözüküyor.
 
 **Beklenen Sonuç:**
 
