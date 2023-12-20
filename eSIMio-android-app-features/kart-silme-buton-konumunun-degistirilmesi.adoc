@@ -15,7 +15,7 @@
 **Ön Koşullar:**
 
 . Uygulamada login olabilmek için geçerli kullanıcı bilgisi olmalı. 
-. Yeni kart ekleyebilmek adına geçerli kart bilgileri olmalı. 
+. Yeni kart ekleyebilmek adına geçerli kart bilgileri olmalı.  
 
 **Aşama:**
 
