@@ -1,0 +1,30 @@
+:imagesdir: images
+
+=  Uygulama yüklendikten sonra ilk açıldığında uygulama işlevlerinin nasıl kullanılacağına dair tek seferlik yönlendirmelerin gösterilmesi
+
+*Test cihazı:* Samsung Galaxy S20Fe Snapdragon 6/128
+
+*Test cihazı sürümü:* Android 13
+
+*Test cihazı ekran çözünürlüğü:* 1080 x 2400
+
+*Test cihazı arayüz sürümü:* One UI 5.1
+
+*Uygulama Sürümü:* 1.0.2
+
+**Ön Koşullar:**
+
+- Uygulamaya kurulum sonrası ilk kez girilmiş olmalı
+
+**Aşama:**
+
+- Temel işlevleri içeren tüm aşamalar
+
+**İster:**
+
+. Kullanıcının uygulamanın temel/önemli işlevlerinin ne işe yaradığını anlaması açısından uygulama kurulumu sonrası ilk kez girildiğinde yönlendirmeler gösterilmeli.
+. Ekran görüntüsündeki Espressolab Android uygulaması örnek alınabilir.
+
+*Not:* İsterler detaylandırılacak.
+
+image::uygulama-kullanim-yonlendimesi-eklenmesi.png[]
